@@ -1,6 +1,6 @@
 ### Hello, I'm [Erin](https://www.linkedin.com/in/erin-claudio/), 
 
-An experienced Developer with experience at [Planet Argon](https://www.planetargon.com/), where I played a crucial role in delivering diverse projects using Ruby on Rails and React. My work included:
+An experienced Developer with experience at [Planet Argon](https://www.planetargon.com/), I played a crucial role in delivering diverse projects using Ruby on Rails and React. My work included:
 
   * Improving the maintainability of 5+ production applications.
   * Completing a long-term refactor from a deprecated framework to React for a major shoe brand.
